@@ -15,13 +15,11 @@
 
 ## 📋 Table of Contents
 
-- [About the Project]
-- [Features]
-- [Built With]
-- [Getting Started]
-- [Usage]
-- [Roadmap]
-- [License]
+- **About the Project**
+- **Features**
+- **Built With**
+- **Getting Started**
+- **Usage**
 
 ---
 
