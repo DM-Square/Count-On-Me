@@ -19,6 +19,7 @@
 - **Built With**
 - **Getting Started**
 - **Usage**
+- **Contacts**
 
 ---
 
@@ -78,6 +79,12 @@ Then open `index.html` in your browser — that's it.
 | Reset | Click `Reset` | `r`, `0`, or `Numpad 0` |
 
 The counter value is automatically saved to `localStorage` and restored on next visit.
+
+---
+
+## 👤 Contacts
+
+Questions, feedback, or ideas? I’d love to hear from you! Visit my website: [dm-square.github.io](https://dm-square.github.io/)
 
 ---
 
