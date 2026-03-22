@@ -68,7 +68,8 @@ body {
     max-width: 70%; 
     height: 4rem; 
     width: 4rem; 
-    margin: 4rem 1rem; 
+    margin: 4rem 1rem;
+    font-family: monospace; 
     font-size: 2.5rem; 
     color: #151515; 
     background-color: #ffd500; 
@@ -81,6 +82,7 @@ body {
 .btn-reset {
     position: absolute; 
     bottom: 1rem; 
+    font-family: monospace;
     text-transform: uppercase; 
     height: 2rem; 
     width: 10rem; 
