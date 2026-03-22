@@ -84,15 +84,6 @@ The counter value is automatically saved to `localStorage` and restored on next 
 
 ---
 
-## 🗺️ Roadmap
-
-- [ ] Custom step size (e.g. count by 5s)
-- [ ] Multiple independent counters
-- [ ] Dark / light theme toggle
-- [ ] Accessible `aria-label` attributes
-
----
-
 ## 📄 License
 
 Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information.
