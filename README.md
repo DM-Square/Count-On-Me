@@ -84,12 +84,6 @@ The counter value is automatically saved to `localStorage` and restored on next 
 
 ---
 
-## 📄 License
-
-Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information.
-
----
-
 <div align="center">
   <sub>Made with ☕ and vanilla JS</sub>
 </div>
