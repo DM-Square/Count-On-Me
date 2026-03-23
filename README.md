@@ -16,9 +16,9 @@
 
 - [**About the Project**](https://github.com/DM-Square/Count-On-Me/blob/main/README.md#-about-the-project)
 - [**Features**](https://github.com/DM-Square/Count-On-Me/blob/main/README.md#-features)
-- [**Built With**](https://github.com/DM-Square/Count-On-Me/blob/main/README.md#-built-with)
+- [**Built With**](https://github.com/DM-Square/Count-On-Me/blob/main/README.md#%EF%B8%8F-built-with)
 - [**Getting Started**](https://github.com/DM-Square/Count-On-Me/blob/main/README.md#-getting-started)
-- [**Usage**](https://github.com/DM-Square/Count-On-Me/blob/main/README.md#-usage)
+- [**Usage**](https://github.com/DM-Square/Count-On-Me/blob/main/README.md#%EF%B8%8F-usage)
 - [**Contacts**](https://github.com/DM-Square/Count-On-Me/blob/main/README.md#-contacts)
 
 ---
