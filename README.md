@@ -4,7 +4,7 @@
 
 ### A minimal, keyboard-friendly counter app — built with vanilla JavaScript.
 
-[![Live Demo](https://img.shields.io/badge/▶%20Live%20Demo-Click%20Here-80e209?style=for-the-badge&labelColor=151515)](https://c-on-me.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/▶%20Live%20Demo-Click%20Here-5fa707?style=for-the-badge&labelColor=151515)](https://c-on-me.netlify.app/)
 
 ![Count on Me screenshot](assets/img/count-on-me.png)
 
@@ -44,9 +44,9 @@ The project goes beyond the basic requirements by adding persistent storage, min
 
 ## 🛠️ Built With
 
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-80e209?style=flat-square&logo=javascript&logoColor=151515)
-![HTML5](https://img.shields.io/badge/HTML5-Markup-80e209?style=flat-square&logo=html5&logoColor=151515)
-![CSS3](https://img.shields.io/badge/CSS3-External%20Stylesheet-80e209?style=flat-square&logo=css3&logoColor=151515)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-5fa707?style=flat-square&logo=javascript&logoColor=151515)
+![HTML5](https://img.shields.io/badge/HTML5-Markup-5fa707?style=flat-square&logo=html5&logoColor=151515)
+![CSS3](https://img.shields.io/badge/CSS3-External%20Stylesheet-5fa707?style=flat-square&logo=css3&logoColor=151515)
 
 - **Vanilla JavaScript** — DOM manipulation, `localStorage`, event listeners
 - **CSS3** — external stylesheet linked dynamically via a `<link>` element injected by JavaScript
